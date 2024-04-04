@@ -4,7 +4,7 @@ This repository aims to create an application for calculating tips among several
 ## Introduction
 This app, as mentioned earlier, aims to facilitate the calculation of the total bill and tip that may arise from a restaurant or establishment, allowing the user to input the necessary data and select those who covered their share.
 
-<img src="" alt="App with vue.js" width="1000" height="500" />
+<img src="https://github.com/Henry0604/App-with-Vue.js/assets/113632465/f0d3fe8c-b914-4efd-8097-cd2d8097ed97" alt="App with vue.js" width="1000" height="500" />
 
 ## Technologies used 
 
